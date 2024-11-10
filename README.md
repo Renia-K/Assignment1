@@ -5,6 +5,18 @@
 ## Overview
 This repository contains a list of possible clients for jewellery and art creations in Italy. For each possible client, the name of shop/company is referred, along with the city. 
 
+
+## Variables
+
+The table below describes the variables included in this dataset:
+
+| Variable Name       | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| 'Company Name/Shop' | The registered name of business/Name of the retail shop.                    |
+| 'City'              | The city where the company is legally registered.                           |
+| 'Country'           | The official country where the company is registered or primarily operates. |
+
+
 ## Creator
 This dataset was created and curated by Theodora-Stavroula Korma on behalf of the course Collecting Data, in MA Digital Humanities. The aim was to provide possible clients for re-selling jewellery and art creation products, assisting designers to develop their sales network.
 
