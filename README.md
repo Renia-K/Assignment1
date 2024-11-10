@@ -1,6 +1,6 @@
 # Assignment 1, Collecting Data, MA Digital Humanities
 
-## Potential Clients
+# Potential Clients
 
 ## Overview
 This repository contains a list of possible clients for jewellery and art creations in Italy. For each possible client, the name of shop/company is referred, along with the city. 
